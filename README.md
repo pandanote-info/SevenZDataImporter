@@ -1,0 +1,2 @@
+# SevenZDataImporter
+Apache SolrのDataImportHandlerで7-zipで圧縮されたファイルのインポートをサポートするためのJARファイル。
